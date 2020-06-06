@@ -49,19 +49,14 @@ header{
   background-color: #626262;
   color: #fff;
 }
-/*header end*/
-/*cover start*/
-.cover{}
 .wrapper img{
   width: 100%;
 }
-/*cover end*/
-/*blog start*/
 .blog{
   padding: 40px 0;
 }
 .wrapper2{
-  width: 80%;
+  width: 70%;
   overflow: hidden;
   margin: 0 auto;
 }
@@ -86,11 +81,9 @@ h1{
   margin: 0;
   margin-bottom: 30px;
 }
-/*blog end*/
-/*blog2 start*/
 .blo_cnt{}
 .single_item{
-  width: 45%;
+  width: 50%;
   float: left;
   padding: 30px 0;
 }
@@ -101,15 +94,13 @@ h1{
 .single_item:nth-child(even) {
   padding-left: 10%;
 }
-/*blog2 end*/
-/*newslatter start*/
 .newsletter{
   background-color: #f0f0f0;
   padding: 50px 0;
   margin: 20px 0;
 }
 .signup{
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
   
 }
@@ -143,8 +134,6 @@ h1{
 .{
   margin-top: 50px;
 }
-/*newslatter end*/
-/*button start*/
 .btn{
   padding: 50px 0;
   margin-bottom: 30px;
@@ -164,8 +153,7 @@ h1{
   color: #fff;
   background-color: #626262;
 }
-/*button end*/
-/*footer start*/
+
 footer{
   background-color: #f0f0f0;
   width: 100%;
@@ -173,7 +161,7 @@ footer{
 
 }
 .policy{
-  width: 30%;
+  width: 35%;
   float: left;
 }
 .policy{}
